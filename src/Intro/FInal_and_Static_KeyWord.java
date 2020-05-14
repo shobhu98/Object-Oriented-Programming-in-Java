@@ -10,6 +10,8 @@ public class FInal_and_Static_KeyWord {
 
    // What is static variables?
     //Static variables are not object specific . They are accessed by the whole class.
+    //A static value is changed for all objects belonging to that class.
+
 
 
     //Using static blocks is a good habit because they are called only once when a class is loaded.
