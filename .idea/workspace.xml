@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406fc554-7a24-45b6-8a90-bf965c582f7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Constructor_Client">
+  <component name="RunManager" selected="Application.Student_Client">
     <configuration name="Constructor_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intro.Constructor_Client" />
       <module name="OOPs in JAVA" />
@@ -68,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student_Client" />
+      <module name="OOPs in JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student_Client" />
         <item itemvalue="Application.Constructor_Client" />
         <item itemvalue="Application.PersonClient" />
       </list>
@@ -85,7 +93,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589474752435</updated>
-      <workItem from="1589474753808" duration="6268000" />
+      <workItem from="1589474753808" duration="6894000" />
+      <workItem from="1589528839742" duration="872000" />
+      <workItem from="1589545188209" duration="744000" />
     </task>
     <servers />
   </component>
@@ -97,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
