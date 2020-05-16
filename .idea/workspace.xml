@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="406fc554-7a24-45b6-8a90-bf965c582f7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Parent.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Student_Client">
+  <component name="RunManager" selected="Application.Ques1">
     <configuration name="Constructor_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intro.Constructor_Client" />
       <module name="OOPs in JAVA" />
@@ -68,6 +69,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Ques1" />
+      <module name="OOPs in JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Ques2" />
+      <module name="OOPs in JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Student_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student_Client" />
       <module name="OOPs in JAVA" />
@@ -77,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ques1" />
+        <item itemvalue="Application.Ques2" />
         <item itemvalue="Application.Student_Client" />
         <item itemvalue="Application.Constructor_Client" />
         <item itemvalue="Application.PersonClient" />
@@ -95,7 +124,8 @@
       <updated>1589474752435</updated>
       <workItem from="1589474753808" duration="6894000" />
       <workItem from="1589528839742" duration="872000" />
-      <workItem from="1589545188209" duration="3067000" />
+      <workItem from="1589545188209" duration="3699000" />
+      <workItem from="1589628433461" duration="1996000" />
     </task>
     <servers />
   </component>
