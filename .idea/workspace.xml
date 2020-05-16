@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="406fc554-7a24-45b6-8a90-bf965c582f7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro/Parent.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ques1">
+  <component name="RunManager" selected="Application.Optimized_Sol_ques1">
     <configuration name="Constructor_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intro.Constructor_Client" />
       <module name="OOPs in JAVA" />
@@ -56,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intro.PersonClient" />
+    <configuration name="Optimized_Sol_ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Optimized_Sol_ques1" />
       <module name="OOPs in JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intro.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Optimized_Sol_ques1" />
         <item itemvalue="Application.Ques1" />
         <item itemvalue="Application.Ques2" />
         <item itemvalue="Application.Student_Client" />
         <item itemvalue="Application.Constructor_Client" />
-        <item itemvalue="Application.PersonClient" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +124,7 @@
       <workItem from="1589474753808" duration="6894000" />
       <workItem from="1589528839742" duration="872000" />
       <workItem from="1589545188209" duration="3699000" />
-      <workItem from="1589628433461" duration="1996000" />
+      <workItem from="1589628433461" duration="2706000" />
     </task>
     <servers />
   </component>
