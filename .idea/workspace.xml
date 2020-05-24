@@ -41,13 +41,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SuperKeyword">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static_Keyword.Client" />
+  <component name="RunManager" selected="Application.abstraction">
+    <configuration name="Accessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Accessor" />
       <module name="OOPs in JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Static_Keyword.*" />
+          <option name="PATTERN" value="Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optimized_Sol_ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Optimized_Sol_ques1" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static_Keyword.Client" />
       <module name="OOPs in JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Static_Keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,19 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Ques1" />
-      <module name="OOPs in JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.SuperKeyword" />
       <module name="OOPs in JAVA" />
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.abstraction" />
+      <module name="OOPs in JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstraction" />
+        <item itemvalue="Application.Accessor" />
         <item itemvalue="Application.SuperKeyword" />
         <item itemvalue="Application.Parent" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Optimized_Sol_ques1" />
-        <item itemvalue="Application.Ques1" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1589628433461" duration="2706000" />
       <workItem from="1589632695509" duration="1346000" />
       <workItem from="1590321373686" duration="37000" />
-      <workItem from="1590338715538" duration="4740000" />
+      <workItem from="1590338715538" duration="6053000" />
     </task>
     <servers />
   </component>
