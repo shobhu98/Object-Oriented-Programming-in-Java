@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.abstraction">
+  <component name="RunManager" selected="Application.MethodOverriding">
     <configuration name="Accessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Encapsulation.Accessor" />
       <module name="OOPs in JAVA" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static_Keyword.Client" />
+    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloading_and_Riding.MethodOverriding" />
       <module name="OOPs in JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Static_Keyword.*" />
+          <option name="PATTERN" value="MethodOverloading_and_Riding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodOverriding" />
         <item itemvalue="Application.abstraction" />
         <item itemvalue="Application.Accessor" />
         <item itemvalue="Application.SuperKeyword" />
         <item itemvalue="Application.Parent" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <workItem from="1589628433461" duration="2706000" />
       <workItem from="1589632695509" duration="1346000" />
       <workItem from="1590321373686" duration="37000" />
-      <workItem from="1590338715538" duration="6568000" />
+      <workItem from="1590338715538" duration="7721000" />
     </task>
     <servers />
   </component>
