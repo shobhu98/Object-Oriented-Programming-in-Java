@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="406fc554-7a24-45b6-8a90-bf965c582f7c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverriding">
+  <component name="RunManager" selected="Application.PolyMorphism">
     <configuration name="Accessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Encapsulation.Accessor" />
       <module name="OOPs in JAVA" />
@@ -69,15 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.Parent" />
+    <configuration name="PolyMorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolyMorphism" />
       <module name="OOPs in JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolyMorphism" />
         <item itemvalue="Application.MethodOverriding" />
         <item itemvalue="Application.abstraction" />
         <item itemvalue="Application.Accessor" />
         <item itemvalue="Application.SuperKeyword" />
-        <item itemvalue="Application.Parent" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +127,8 @@
       <workItem from="1589628433461" duration="2706000" />
       <workItem from="1589632695509" duration="1346000" />
       <workItem from="1590321373686" duration="37000" />
-      <workItem from="1590338715538" duration="7721000" />
+      <workItem from="1590338715538" duration="7819000" />
+      <workItem from="1590380286370" duration="1204000" />
     </task>
     <servers />
   </component>
